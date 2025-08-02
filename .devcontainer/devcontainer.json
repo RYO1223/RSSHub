@@ -17,7 +17,8 @@
                 "esbenp.prettier-vscode",
                 "SonarSource.sonarlint-vscode",
                 "VASubasRaj.flashpost", // Thunder Client is paywalled in WSL/Codespaces/SSH > 2.30.0
-                "ZihanLi.at-helper"
+                "ZihanLi.at-helper",
+                "Anthropic.claude-code"
             ]
         }
     },
@@ -56,6 +57,9 @@
             "version": "latest"
         },
         "ghcr.io/devcontainers/features/github-cli": {
+            "version": "latest"
+        },
+        "ghcr.io/anthropics/devcontainer-features/claude-code": {
             "version": "latest"
         }
     }
