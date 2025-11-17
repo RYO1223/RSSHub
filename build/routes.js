@@ -8354,7 +8354,8 @@ export default {
       "/information/:type?": {
         "path": "/information/:type?",
         "categories": [
-          "new-media"
+          "new-media",
+          "popular"
         ],
         "example": "/aliresearch/information",
         "parameters": {
