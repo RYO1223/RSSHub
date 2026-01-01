@@ -15207,8 +15207,7 @@ export default {
       "/announcement/:type": {
         "path": "/announcement/:type",
         "categories": [
-          "finance",
-          "popular"
+          "finance"
         ],
         "view": 0,
         "example": "/binance/announcement/new-cryptocurrency-listing",
